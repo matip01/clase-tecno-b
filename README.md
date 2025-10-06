@@ -2,5 +2,3 @@
 
 hola maty
 actualizacion 02/10
-
-cambios desde git hub
